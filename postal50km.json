@@ -1,0 +1,1049 @@
+﻿[
+	{
+		"postCode": "4000",
+		"latitude": "-27.464",
+		"longitude": "153.022",
+		"eastBound": "153.529",
+		"southBound": "-27.914",
+		"westBound": "152.515",
+		"northBount": "-27.014"
+	},
+	{
+		"postCode": "4005",
+		"latitude": "-27.456",
+		"longitude": "153.048",
+		"eastBound": "153.555",
+		"southBound": "-27.906",
+		"westBound": "152.541",
+		"northBount": "-27.006"
+	},
+	{
+		"postCode": "4006",
+		"latitude": "-27.447",
+		"longitude": "153.029",
+		"eastBound": "153.536",
+		"southBound": "-27.897",
+		"westBound": "152.522",
+		"northBount": "-26.997"
+	},
+	{
+		"postCode": "4007",
+		"latitude": "-27.434",
+		"longitude": "153.065",
+		"eastBound": "153.572",
+		"southBound": "-27.884",
+		"westBound": "152.558",
+		"northBount": "-26.985"
+	},
+	{
+		"postCode": "4008",
+		"latitude": "-27.417",
+		"longitude": "153.122",
+		"eastBound": "153.629",
+		"southBound": "-27.867",
+		"westBound": "152.615",
+		"northBount": "-26.967"
+	},
+	{
+		"postCode": "4009",
+		"latitude": "-27.433",
+		"longitude": "153.089",
+		"eastBound": "153.596",
+		"southBound": "-27.883",
+		"westBound": "152.582",
+		"northBount": "-26.983"
+	},
+	{
+		"postCode": "4010",
+		"latitude": "-27.431",
+		"longitude": "153.044",
+		"eastBound": "153.551",
+		"southBound": "-27.881",
+		"westBound": "152.537",
+		"northBount": "-26.981"
+	},
+	{
+		"postCode": "4011",
+		"latitude": "-27.419",
+		"longitude": "153.061",
+		"eastBound": "153.569",
+		"southBound": "-27.869",
+		"westBound": "152.554",
+		"northBount": "-26.970"
+	},
+	{
+		"postCode": "4012",
+		"latitude": "-27.398",
+		"longitude": "153.055",
+		"eastBound": "153.562",
+		"southBound": "-27.848",
+		"westBound": "152.548",
+		"northBount": "-26.948"
+	},
+	{
+		"postCode": "4013",
+		"latitude": "-27.392",
+		"longitude": "153.070",
+		"eastBound": "153.577",
+		"southBound": "-27.842",
+		"westBound": "152.563",
+		"northBount": "-26.942"
+	},
+	{
+		"postCode": "4014",
+		"latitude": "-27.375",
+		"longitude": "153.077",
+		"eastBound": "153.584",
+		"southBound": "-27.825",
+		"westBound": "152.570",
+		"northBount": "-26.925"
+	},
+	{
+		"postCode": "4017",
+		"latitude": "-27.319",
+		"longitude": "153.059",
+		"eastBound": "153.566",
+		"southBound": "-27.769",
+		"westBound": "152.552",
+		"northBount": "-26.869"
+	},
+	{
+		"postCode": "4018",
+		"latitude": "-27.343",
+		"longitude": "153.037",
+		"eastBound": "153.544",
+		"southBound": "-27.793",
+		"westBound": "152.530",
+		"northBount": "-26.893"
+	},
+	{
+		"postCode": "4019",
+		"latitude": "-27.249",
+		"longitude": "153.098",
+		"eastBound": "153.605",
+		"southBound": "-27.699",
+		"westBound": "152.591",
+		"northBount": "-26.799"
+	},
+	{
+		"postCode": "4020",
+		"latitude": "-27.216",
+		"longitude": "153.111",
+		"eastBound": "153.618",
+		"southBound": "-27.666",
+		"westBound": "152.604",
+		"northBount": "-26.766"
+	},
+	{
+		"postCode": "4021",
+		"latitude": "-27.225",
+		"longitude": "153.084",
+		"eastBound": "153.591",
+		"southBound": "-27.675",
+		"westBound": "152.577",
+		"northBount": "-26.775"
+	},
+	{
+		"postCode": "4022",
+		"latitude": "-27.213",
+		"longitude": "153.050",
+		"eastBound": "153.557",
+		"southBound": "-27.663",
+		"westBound": "152.543",
+		"northBount": "-26.763"
+	},
+	{
+		"postCode": "4030",
+		"latitude": "-27.425",
+		"longitude": "153.036",
+		"eastBound": "153.543",
+		"southBound": "-27.875",
+		"westBound": "152.529",
+		"northBount": "-26.975"
+	},
+	{
+		"postCode": "4031",
+		"latitude": "-27.410",
+		"longitude": "153.029",
+		"eastBound": "153.536",
+		"southBound": "-27.860",
+		"westBound": "152.522",
+		"northBount": "-26.960"
+	},
+	{
+		"postCode": "4032",
+		"latitude": "-27.385",
+		"longitude": "153.023",
+		"eastBound": "153.530",
+		"southBound": "-27.835",
+		"westBound": "152.516",
+		"northBount": "-26.935"
+	},
+	{
+		"postCode": "4034",
+		"latitude": "-27.359",
+		"longitude": "153.036",
+		"eastBound": "153.543",
+		"southBound": "-27.809",
+		"westBound": "152.529",
+		"northBount": "-26.909"
+	},
+	{
+		"postCode": "4035",
+		"latitude": "-27.355",
+		"longitude": "152.982",
+		"eastBound": "153.489",
+		"southBound": "-27.805",
+		"westBound": "152.475",
+		"northBount": "-26.905"
+	},
+	{
+		"postCode": "4036",
+		"latitude": "-27.316",
+		"longitude": "153.013",
+		"eastBound": "153.520",
+		"southBound": "-27.766",
+		"westBound": "152.506",
+		"northBount": "-26.866"
+	},
+	{
+		"postCode": "4037",
+		"latitude": "-27.339",
+		"longitude": "152.947",
+		"eastBound": "153.454",
+		"southBound": "-27.789",
+		"westBound": "152.440",
+		"northBount": "-26.889"
+	},
+	{
+		"postCode": "4051",
+		"latitude": "-27.426",
+		"longitude": "153.003",
+		"eastBound": "153.510",
+		"southBound": "-27.876",
+		"westBound": "152.496",
+		"northBount": "-26.976"
+	},
+	{
+		"postCode": "4053",
+		"latitude": "-27.400",
+		"longitude": "152.995",
+		"eastBound": "153.502",
+		"southBound": "-27.850",
+		"westBound": "152.488",
+		"northBount": "-26.950"
+	},
+	{
+		"postCode": "4054",
+		"latitude": "-27.402",
+		"longitude": "152.954",
+		"eastBound": "153.461",
+		"southBound": "-27.852",
+		"westBound": "152.447",
+		"northBount": "-26.952"
+	},
+	{
+		"postCode": "4055",
+		"latitude": "-27.409",
+		"longitude": "152.923",
+		"eastBound": "153.430",
+		"southBound": "-27.859",
+		"westBound": "152.416",
+		"northBount": "-26.959"
+	},
+	{
+		"postCode": "4059",
+		"latitude": "-27.452",
+		"longitude": "153.008",
+		"eastBound": "153.516",
+		"southBound": "-27.902",
+		"westBound": "152.501",
+		"northBount": "-27.002"
+	},
+	{
+		"postCode": "4060",
+		"latitude": "-27.443",
+		"longitude": "152.988",
+		"eastBound": "153.495",
+		"southBound": "-27.893",
+		"westBound": "152.481",
+		"northBount": "-26.993"
+	},
+	{
+		"postCode": "4061",
+		"latitude": "-27.445",
+		"longitude": "152.944",
+		"eastBound": "153.451",
+		"southBound": "-27.895",
+		"westBound": "152.437",
+		"northBount": "-26.995"
+	},
+	{
+		"postCode": "4064",
+		"latitude": "-27.461",
+		"longitude": "152.999",
+		"eastBound": "153.506",
+		"southBound": "-27.911",
+		"westBound": "152.492",
+		"northBount": "-27.011"
+	},
+	{
+		"postCode": "4065",
+		"latitude": "-27.460",
+		"longitude": "152.982",
+		"eastBound": "153.489",
+		"southBound": "-27.910",
+		"westBound": "152.475",
+		"northBount": "-27.010"
+	},
+	{
+		"postCode": "4066",
+		"latitude": "-27.479",
+		"longitude": "152.992",
+		"eastBound": "153.499",
+		"southBound": "-27.928",
+		"westBound": "152.485",
+		"northBount": "-27.029"
+	},
+	{
+		"postCode": "4067",
+		"latitude": "-27.496",
+		"longitude": "153.001",
+		"eastBound": "153.508",
+		"southBound": "-27.946",
+		"westBound": "152.494",
+		"northBount": "-27.046"
+	},
+	{
+		"postCode": "4068",
+		"latitude": "-27.503",
+		"longitude": "152.977",
+		"eastBound": "153.484",
+		"southBound": "-27.953",
+		"westBound": "152.470",
+		"northBount": "-27.053"
+	},
+	{
+		"postCode": "4069",
+		"latitude": "-27.510",
+		"longitude": "152.930",
+		"eastBound": "153.437",
+		"southBound": "-27.960",
+		"westBound": "152.423",
+		"northBount": "-27.060"
+	},
+	{
+		"postCode": "4070",
+		"latitude": "-27.567",
+		"longitude": "152.879",
+		"eastBound": "153.386",
+		"southBound": "-28.017",
+		"westBound": "152.372",
+		"northBount": "-27.117"
+	},
+	{
+		"postCode": "4073",
+		"latitude": "-27.544",
+		"longitude": "152.949",
+		"eastBound": "153.456",
+		"southBound": "-27.994",
+		"westBound": "152.442",
+		"northBount": "-27.094"
+	},
+	{
+		"postCode": "4074",
+		"latitude": "-27.551",
+		"longitude": "152.927",
+		"eastBound": "153.434",
+		"southBound": "-28.001",
+		"westBound": "152.420",
+		"northBount": "-27.101"
+	},
+	{
+		"postCode": "4077",
+		"latitude": "-27.596",
+		"longitude": "152.971",
+		"eastBound": "153.478",
+		"southBound": "-28.046",
+		"westBound": "152.464",
+		"northBount": "-27.146"
+	},
+	{
+		"postCode": "4075",
+		"latitude": "-27.538",
+		"longitude": "152.979",
+		"eastBound": "153.486",
+		"southBound": "-27.988",
+		"westBound": "152.472",
+		"northBount": "-27.088"
+	},
+	{
+		"postCode": "4076",
+		"latitude": "-27.581",
+		"longitude": "152.940",
+		"eastBound": "153.447",
+		"southBound": "-28.031",
+		"westBound": "152.433",
+		"northBount": "-27.131"
+	},
+	{
+		"postCode": "4077",
+		"latitude": "-27.597",
+		"longitude": "152.975",
+		"eastBound": "153.482",
+		"southBound": "-28.047",
+		"westBound": "152.468",
+		"northBount": "-27.147"
+	},
+	{
+		"postCode": "4078",
+		"latitude": "-27.619",
+		"longitude": "152.954",
+		"eastBound": "153.462",
+		"southBound": "-28.069",
+		"westBound": "152.447",
+		"northBount": "-27.169"
+	},
+	{
+		"postCode": "4101",
+		"latitude": "-27.485",
+		"longitude": "153.011",
+		"eastBound": "153.518",
+		"southBound": "-27.935",
+		"westBound": "152.504",
+		"northBount": "-27.035"
+	},
+	{
+		"postCode": "4102",
+		"latitude": "-27.493",
+		"longitude": "153.031",
+		"eastBound": "153.538",
+		"southBound": "-27.943",
+		"westBound": "152.524",
+		"northBount": "-27.043"
+	},
+	{
+		"postCode": "4103",
+		"latitude": "-27.510",
+		"longitude": "153.028",
+		"eastBound": "153.535",
+		"southBound": "-27.960",
+		"westBound": "152.521",
+		"northBount": "-27.060"
+	},
+	{
+		"postCode": "4104",
+		"latitude": "-27.515",
+		"longitude": "153.013",
+		"eastBound": "153.520",
+		"southBound": "-27.965",
+		"westBound": "152.506",
+		"northBount": "-27.065"
+	},
+	{
+		"postCode": "4105",
+		"latitude": "-27.528",
+		"longitude": "153.014",
+		"eastBound": "153.521",
+		"southBound": "-27.978",
+		"westBound": "152.507",
+		"northBount": "-27.078"
+	},
+	{
+		"postCode": "4106",
+		"latitude": "-27.551",
+		"longitude": "153.010",
+		"eastBound": "153.517",
+		"southBound": "-28.001",
+		"westBound": "152.503",
+		"northBount": "-27.101"
+	},
+	{
+		"postCode": "4107",
+		"latitude": "-27.552",
+		"longitude": "153.034",
+		"eastBound": "153.541",
+		"southBound": "-28.002",
+		"westBound": "152.527",
+		"northBount": "-27.102"
+	},
+	{
+		"postCode": "4108",
+		"latitude": "-27.571",
+		"longitude": "153.028",
+		"eastBound": "153.535",
+		"southBound": "-28.021",
+		"westBound": "152.521",
+		"northBount": "-27.121"
+	},
+	{
+		"postCode": "4109",
+		"latitude": "-27.581",
+		"longitude": "153.054",
+		"eastBound": "153.561",
+		"southBound": "-28.030",
+		"westBound": "152.547",
+		"northBount": "-27.131"
+	},
+	{
+		"postCode": "4113",
+		"latitude": "-27.589",
+		"longitude": "153.084",
+		"eastBound": "153.591",
+		"southBound": "-28.039",
+		"westBound": "152.577",
+		"northBount": "-27.139"
+	},
+	{
+		"postCode": "4114",
+		"latitude": "-27.629",
+		"longitude": "153.106",
+		"eastBound": "153.613",
+		"southBound": "-28.079",
+		"westBound": "152.599",
+		"northBount": "-27.179"
+	},
+	{
+		"postCode": "4116",
+		"latitude": "-27.624",
+		"longitude": "153.048",
+		"eastBound": "153.555",
+		"southBound": "-28.074",
+		"westBound": "152.541",
+		"northBount": "-27.174"
+	},
+	{
+		"postCode": "4120",
+		"latitude": "-27.506",
+		"longitude": "153.048",
+		"eastBound": "153.555",
+		"southBound": "-27.956",
+		"westBound": "152.541",
+		"northBount": "-27.056"
+	},
+	{
+		"postCode": "4122",
+		"latitude": "-27.544",
+		"longitude": "153.084",
+		"eastBound": "153.591",
+		"southBound": "-27.994",
+		"westBound": "152.577",
+		"northBount": "-27.094"
+	},
+	{
+		"postCode": "4127",
+		"latitude": "-27.638",
+		"longitude": "153.128",
+		"eastBound": "153.635",
+		"southBound": "-28.088",
+		"westBound": "152.621",
+		"northBount": "-27.188"
+	},
+	{
+		"postCode": "4151",
+		"latitude": "-27.498",
+		"longitude": "153.060",
+		"eastBound": "153.567",
+		"southBound": "-27.948",
+		"westBound": "152.553",
+		"northBount": "-27.048"
+	},
+	{
+		"postCode": "4152",
+		"latitude": "-27.498",
+		"longitude": "153.095",
+		"eastBound": "153.602",
+		"southBound": "-27.948",
+		"westBound": "152.588",
+		"northBount": "-27.048"
+	},
+	{
+		"postCode": "4157",
+		"latitude": "-27.535",
+		"longitude": "153.200",
+		"eastBound": "153.707",
+		"southBound": "-27.985",
+		"westBound": "152.693",
+		"northBount": "-27.085"
+	},
+	{
+		"postCode": "4159",
+		"latitude": "-27.498",
+		"longitude": "153.216",
+		"eastBound": "153.723",
+		"southBound": "-27.948",
+		"westBound": "152.709",
+		"northBount": "-27.048"
+	},
+	{
+		"postCode": "4161",
+		"latitude": "-27.528",
+		"longitude": "153.224",
+		"eastBound": "153.731",
+		"southBound": "-27.978",
+		"westBound": "152.717",
+		"northBount": "-27.078"
+	},
+	{
+		"postCode": "4164",
+		"latitude": "-27.562",
+		"longitude": "153.266",
+		"eastBound": "153.773",
+		"southBound": "-28.012",
+		"westBound": "152.759",
+		"northBount": "-27.112"
+	},
+	{
+		"postCode": "4165",
+		"latitude": "-27.607",
+		"longitude": "153.297",
+		"eastBound": "153.804",
+		"southBound": "-28.057",
+		"westBound": "152.790",
+		"northBount": "-27.157"
+	},
+	{
+		"postCode": "4178",
+		"latitude": "-27.447",
+		"longitude": "153.161",
+		"eastBound": "153.668",
+		"southBound": "-27.897",
+		"westBound": "152.654",
+		"northBount": "-26.997"
+	},
+	{
+		"postCode": "4184",
+		"latitude": "-27.675",
+		"longitude": "153.382",
+		"eastBound": "153.889",
+		"southBound": "-28.125",
+		"westBound": "152.875",
+		"northBount": "-27.225"
+	},
+	{
+		"postCode": "4207",
+		"latitude": "-27.701",
+		"longitude": "153.214",
+		"eastBound": "153.721",
+		"southBound": "-28.151",
+		"westBound": "152.707",
+		"northBount": "-27.251"
+	},
+	{
+		"postCode": "4208",
+		"latitude": "-27.778",
+		"longitude": "153.265",
+		"eastBound": "153.772",
+		"southBound": "-28.228",
+		"westBound": "152.758",
+		"northBount": "-27.328"
+	},
+	{
+		"postCode": "4209",
+		"latitude": "-27.848",
+		"longitude": "153.312",
+		"eastBound": "153.819",
+		"southBound": "-28.298",
+		"westBound": "152.805",
+		"northBount": "-27.398"
+	},
+	{
+		"postCode": "4210",
+		"latitude": "-27.909",
+		"longitude": "153.307",
+		"eastBound": "153.814",
+		"southBound": "-28.359",
+		"westBound": "152.800",
+		"northBount": "-27.459"
+	},
+	{
+		"postCode": "4211",
+		"latitude": "-27.984",
+		"longitude": "153.335",
+		"eastBound": "153.842",
+		"southBound": "-28.434",
+		"westBound": "152.828",
+		"northBount": "-27.534"
+	},
+	{
+		"postCode": "4212",
+		"latitude": "-27.886",
+		"longitude": "153.346",
+		"eastBound": "153.853",
+		"southBound": "-28.336",
+		"westBound": "152.839",
+		"northBount": "-27.436"
+	},
+	{
+		"postCode": "4213",
+		"latitude": "-28.088",
+		"longitude": "153.363",
+		"eastBound": "153.870",
+		"southBound": "-28.538",
+		"westBound": "152.856",
+		"northBount": "-27.638"
+	},
+	{
+		"postCode": "4214",
+		"latitude": "-27.963",
+		"longitude": "153.372",
+		"eastBound": "153.879",
+		"southBound": "-28.413",
+		"westBound": "152.865",
+		"northBount": "-27.514"
+	},
+	{
+		"postCode": "4215",
+		"latitude": "-27.959",
+		"longitude": "153.404",
+		"eastBound": "153.911",
+		"southBound": "-28.409",
+		"westBound": "152.897",
+		"northBount": "-27.509"
+	},
+	{
+		"postCode": "4216",
+		"latitude": "-27.912",
+		"longitude": "153.391",
+		"eastBound": "153.898",
+		"southBound": "-28.362",
+		"westBound": "152.883",
+		"northBount": "-27.462"
+	},
+	{
+		"postCode": "4217",
+		"latitude": "-27.991",
+		"longitude": "153.428",
+		"eastBound": "153.935",
+		"southBound": "-28.441",
+		"westBound": "152.921",
+		"northBount": "-27.541"
+	},
+	{
+		"postCode": "4218",
+		"latitude": "-28.042",
+		"longitude": "153.430",
+		"eastBound": "153.937",
+		"southBound": "-28.492",
+		"westBound": "152.923",
+		"northBount": "-27.592"
+	},
+	{
+		"postCode": "4220",
+		"latitude": "-28.084",
+		"longitude": "153.438",
+		"eastBound": "153.945",
+		"southBound": "-28.534",
+		"westBound": "152.931",
+		"northBount": "-27.634"
+	},
+	{
+		"postCode": "4221",
+		"latitude": "-28.115",
+		"longitude": "153.466",
+		"eastBound": "153.973",
+		"southBound": "-28.565",
+		"westBound": "152.959",
+		"northBount": "-27.665"
+	},
+	{
+		"postCode": "4225",
+		"latitude": "-28.169",
+		"longitude": "153.535",
+		"eastBound": "154.042",
+		"southBound": "-28.619",
+		"westBound": "153.028",
+		"northBount": "-27.719"
+	},
+	{
+		"postCode": "4226",
+		"latitude": "-28.072",
+		"longitude": "153.395",
+		"eastBound": "153.902",
+		"southBound": "-28.522",
+		"westBound": "152.888",
+		"northBount": "-27.622"
+	},
+	{
+		"postCode": "4227",
+		"latitude": "-28.087",
+		"longitude": "153.412",
+		"eastBound": "153.919",
+		"southBound": "-28.537",
+		"westBound": "152.905",
+		"northBount": "-27.637"
+	},
+	{
+		"postCode": "4280",
+		"latitude": "-27.827",
+		"longitude": "153.006",
+		"eastBound": "153.513",
+		"southBound": "-28.277",
+		"westBound": "152.499",
+		"northBount": "-27.377"
+	},
+	{
+		"postCode": "4301",
+		"latitude": "-27.649",
+		"longitude": "152.857",
+		"eastBound": "153.364",
+		"southBound": "-28.099",
+		"westBound": "152.350",
+		"northBount": "-27.199"
+	},
+	{
+		"postCode": "4330",
+		"latitude": "-27.680",
+		"longitude": "152.919",
+		"eastBound": "153.426",
+		"southBound": "-28.130",
+		"westBound": "152.412",
+		"northBount": "-27.230"
+	},
+	{
+		"postCode": "4370",
+		"latitude": "-28.217",
+		"longitude": "152.029",
+		"eastBound": "152.536",
+		"southBound": "-28.667",
+		"westBound": "151.522",
+		"northBount": "-27.767"
+	},
+	{
+		"postCode": "4405",
+		"latitude": "-27.183",
+		"longitude": "151.263",
+		"eastBound": "151.770",
+		"southBound": "-27.633",
+		"westBound": "150.756",
+		"northBount": "-26.733"
+	},
+	{
+		"postCode": "4503",
+		"latitude": "-27.246",
+		"longitude": "152.992",
+		"eastBound": "153.499",
+		"southBound": "-27.696",
+		"westBound": "152.485",
+		"northBount": "-26.796"
+	},
+	{
+		"postCode": "4504",
+		"latitude": "-27.186",
+		"longitude": "152.947",
+		"eastBound": "153.454",
+		"southBound": "-27.636",
+		"westBound": "152.440",
+		"northBount": "-26.736"
+	},
+	{
+		"postCode": "4505",
+		"latitude": "-27.159",
+		"longitude": "152.961",
+		"eastBound": "153.468",
+		"southBound": "-27.609",
+		"westBound": "152.454",
+		"northBount": "-26.709"
+	},
+	{
+		"postCode": "4506",
+		"latitude": "-27.117",
+		"longitude": "152.946",
+		"eastBound": "153.453",
+		"southBound": "-27.567",
+		"westBound": "152.439",
+		"northBount": "-26.667"
+	},
+	{
+		"postCode": "4507",
+		"latitude": "-27.075",
+		"longitude": "153.163",
+		"eastBound": "153.670",
+		"southBound": "-27.525",
+		"westBound": "152.656",
+		"northBount": "-26.625"
+	},
+	{
+		"postCode": "4508",
+		"latitude": "-27.191",
+		"longitude": "153.023",
+		"eastBound": "153.530",
+		"southBound": "-27.641",
+		"westBound": "152.516",
+		"northBount": "-26.741"
+	},
+	{
+		"postCode": "4509",
+		"latitude": "-27.222",
+		"longitude": "153.014",
+		"eastBound": "153.521",
+		"southBound": "-27.672",
+		"westBound": "152.507",
+		"northBount": "-26.772"
+	},
+	{
+		"postCode": "4510",
+		"latitude": "-27.072",
+		"longitude": "152.954",
+		"eastBound": "153.461",
+		"southBound": "-27.522",
+		"westBound": "152.447",
+		"northBount": "-26.622"
+	},
+	{
+		"postCode": "4556",
+		"latitude": "-26.685",
+		"longitude": "153.065",
+		"eastBound": "153.572",
+		"southBound": "-27.135",
+		"westBound": "152.558",
+		"northBount": "-26.235"
+	},
+	{
+		"postCode": "4557",
+		"latitude": "-26.682",
+		"longitude": "153.115",
+		"eastBound": "153.622",
+		"southBound": "-27.132",
+		"westBound": "152.608",
+		"northBount": "-26.232"
+	},
+	{
+		"postCode": "4558",
+		"latitude": "-26.655",
+		"longitude": "153.086",
+		"eastBound": "153.593",
+		"southBound": "-27.105",
+		"westBound": "152.579",
+		"northBount": "-26.205"
+	},
+	{
+		"postCode": "4560",
+		"latitude": "-26.625",
+		"longitude": "152.956",
+		"eastBound": "153.463",
+		"southBound": "-27.075",
+		"westBound": "152.449",
+		"northBount": "-26.175"
+	},
+	{
+		"postCode": "4565",
+		"latitude": "-26.393",
+		"longitude": "153.028",
+		"eastBound": "153.535",
+		"southBound": "-26.843",
+		"westBound": "152.521",
+		"northBount": "-25.943"
+	},
+	{
+		"postCode": "4566",
+		"latitude": "-26.404",
+		"longitude": "153.059",
+		"eastBound": "153.566",
+		"southBound": "-26.854",
+		"westBound": "152.552",
+		"northBount": "-25.954"
+	},
+	{
+		"postCode": "4567",
+		"latitude": "-26.396",
+		"longitude": "153.088",
+		"eastBound": "153.595",
+		"southBound": "-26.846",
+		"westBound": "152.581",
+		"northBount": "-25.946"
+	},
+	{
+		"postCode": "4570",
+		"latitude": "-26.185",
+		"longitude": "152.666",
+		"eastBound": "153.173",
+		"southBound": "-26.635",
+		"westBound": "152.159",
+		"northBount": "-25.735"
+	},
+	{
+		"postCode": "4573",
+		"latitude": "-26.532",
+		"longitude": "153.086",
+		"eastBound": "153.593",
+		"southBound": "-26.982",
+		"westBound": "152.579",
+		"northBount": "-26.082"
+	},
+	{
+		"postCode": "4610",
+		"latitude": "-26.538",
+		"longitude": "151.843",
+		"eastBound": "152.350",
+		"southBound": "-26.988",
+		"westBound": "151.336",
+		"northBount": "-26.088"
+	},
+	{
+		"postCode": "4650",
+		"latitude": "-25.529",
+		"longitude": "152.697",
+		"eastBound": "153.204",
+		"southBound": "-25.979",
+		"westBound": "152.190",
+		"northBount": "-25.079"
+	},
+	{
+		"postCode": "4655",
+		"latitude": "-25.295",
+		"longitude": "152.895",
+		"eastBound": "153.402",
+		"southBound": "-25.745",
+		"westBound": "152.388",
+		"northBount": "-24.845"
+	},
+	{
+		"postCode": "4720",
+		"latitude": "-23.529",
+		"longitude": "148.160",
+		"eastBound": "148.667",
+		"southBound": "-23.979",
+		"westBound": "147.653",
+		"northBount": "-23.079"
+	},
+	{
+		"postCode": "4805",
+		"latitude": "-20.017",
+		"longitude": "148.228",
+		"eastBound": "148.735",
+		"southBound": "-20.467",
+		"westBound": "147.721",
+		"northBount": "-19.567"
+	},
+	{
+		"postCode": "4807",
+		"latitude": "-19.570",
+		"longitude": "147.409",
+		"eastBound": "147.916",
+		"southBound": "-20.020",
+		"westBound": "146.902",
+		"northBount": "-19.120"
+	},
+	{
+		"postCode": "4817",
+		"latitude": "-19.302",
+		"longitude": "146.729",
+		"eastBound": "147.236",
+		"southBound": "-19.752",
+		"westBound": "146.222",
+		"northBount": "-18.852"
+	},
+	{
+		"postCode": "4880",
+		"latitude": "-17.002",
+		"longitude": "145.430",
+		"eastBound": "145.937",
+		"southBound": "-17.452",
+		"westBound": "144.923",
+		"northBount": "-16.552"
+	},
+	{
+		"postCode": ""
+	}
+]
